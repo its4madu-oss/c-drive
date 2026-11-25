@@ -39,3 +39,8 @@ Remaining work:
 Full-Stack Developer | Web Applications | AI-Assisted Development
 
 GitHub: https://github.com/its4madu-oss
+## Demo Video
+
+Watch the C-Drive application screen recording:
+
+[View C-Drive Demo on YouTube](https://youtube.com/shorts/CpfdIvkwf1o?feature=share)
